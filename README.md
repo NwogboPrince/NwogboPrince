@@ -8,15 +8,10 @@
 </p>
 
 </br>
- 
 
-<img src="https://komarev.com/ghpvc/?username=marwaniiwael18&color=brightgreen" alt="profile views">
-<h1>
-  
-<!-- Show this only when you're ranked -->
-[![committers.top badge](https://user-badge.committers.top/tunisia/marwaniiwael18.svg?refresh=1)](https://committers.top/tunisia)
+ - 🌱 I’m currently learning **Solidty, PHP and Python**
 
-</h1>
+
 
 
 
@@ -28,16 +23,14 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 **Talking about personal stuff:**
 
-- 👨 I’m Marwani Wael (Louu).
+- 👨 I’m Nwogbo Prince Miracle.
 - 😄 Pronouns: he/him/his.
-- 📧 How to reach me: marwaniwaelwork@gmail.com
-- 💬 discord: louyongebwahdou_63108
-- 🌐 Website: https://www.marwaniwael.me/
+- 📧 How to reach me: nwogboprince32@gmail.com / https://wa.me/qr/HO6B47CEIYHGA1 (whatsapp)
 
 ## 🤝 Let's Connect! 
 
 I'm always excited to connect with fellow developers and tech enthusiasts! 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/wael-marwani-/) - don't forget to mention you found me through GitHub! 😊
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/miracle-prince-245815312/) - don't forget to mention you found me through GitHub! 😊
 ## Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwaniiwael18&theme=github_dark" />
