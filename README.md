@@ -11,13 +11,13 @@
 
  - 🌱 I’m currently learning **Solidty, PHP and Python**
 
-
+- 🔭 I’m currently working on an NFT website with Ai Automation for discovering , buying and selling of NFTs , crypto currencies and forex trading, legal contract Automation + Blockchain verification , Autonomous Crypto Trading e.t.c
+  Tech stacks - Node.js + Express .js, react + tailwind e.t.c
 
 
 
 ## Glad to see you here!
 
-<img align="right" alt="Marwani Wael" src="images/coding.gif" width="320px" />
 
 Love interacting with the community, sharing knowledge, and learning new things.
 
@@ -33,20 +33,3 @@ I'm always excited to connect with fellow developers and tech enthusiasts!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/miracle-prince-245815312/) - don't forget to mention you found me through GitHub! 😊
 ## Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marwaniiwael18&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwaniiwael18&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
-
-<!--
-**NwogboPrince/NwogboPrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
