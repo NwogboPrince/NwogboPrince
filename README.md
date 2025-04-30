@@ -1,12 +1,10 @@
-## Hi there 👋 
-### Hi there, I'm <a href="https://NwogboPrince.me/" target="_blank" title="Nwogbo Prince Miracle">Nwogbo Prince Miracle Ebube</a> 👋
+
+### Hi there 👋 , I'm <a href="https://NwogboPrince.me/" target="_blank" title="Nwogbo Prince Miracle">Nwogbo Prince Miracle Ebube</a> 👋
 <p align="left">
-<a href="https://x.com/@Prin19838Golden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wael_marwanii" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/miracle-prince-245815312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wael marwani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/World.Wide.Server08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouanii wael" height="30" width="40" /></a>
-<a href="[https://instagram.com/waeel_marouanii](https://www.instagram.com/waeel_marouanii/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waeel_marouanii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@WaelMarouanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wael marwani" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wolf_killer" height="30" width="40" /></a>
+<a href="https://x.com/@Prin19838Golden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NwogboPrince" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miracle-prince-245815312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nwogboprince" height="30" width="40" /></a>
+<a href="https://web.facebook.com/itzgolden.prince.7792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marouanii wael" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nextline_09?igsh=YzljYTk1ODg3Zg== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waeel_marouanii" height="30" width="40" /></a>
 </p>
 
 </br>
