@@ -9,7 +9,7 @@
 
 </br>
 
- - 🌱 I’m currently learning **Solidty, PHP and Python**
+ - 🌱 I’m currently learning **Solidty, JAVA and Python**
 
 - 🔭 I’m currently working on an NFT website with Ai Automation for discovering , buying and selling of NFTs , crypto currencies and forex trading, legal contract Automation + Blockchain verification , Autonomous Crypto Trading e.t.c
   Tech stacks - Node.js + Express .js, react + tailwind e.t.c
