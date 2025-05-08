@@ -1,5 +1,5 @@
 
-### Hi there 👋 , I'm <a href="https://NwogboPrince.me/" target="_blank" title="Nwogbo Prince Miracle">Nwogbo Prince Miracle Ebube</a> 👋
+### Hi there 👋 , I'm <a href="https://NwogboPrince.me/" target="_blank" title="Nwogbo Prince Miracle">Nwogbo Miracle Prince Ebube</a> 👋
 <p align="left">
 <a href="https://x.com/@Prin19838Golden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NwogboPrince" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/miracle-prince-245815312/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nwogboprince" height="30" width="40" /></a>
