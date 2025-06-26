@@ -7,13 +7,28 @@
 <a href="https://www.instagram.com/nextline_09?igsh=YzljYTk1ODg3Zg== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="waeel_marouanii" height="30" width="40" /></a>
 </p>
 
-</br>
 
+
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=HI+I+Nwogbo+prince;A+Full+Stack+Web+Developer+;Loves+to+learn+new+stuff+and+Giving+The+Best" alt="Typing SVG" /></a>
+</p>
+
+
+## 💫 About Me:<br>
+🏫 I’m currently learning **Next js by doing Project**<br>
+🌱 I’m learning **Machine learning and AI**<br>
+👯 I’m looking to collaborate on **Open source Project.**<br>
+💬 Ask me about
  - 🌱 I’m currently learning **Solidty, JAVA and Python**
 
 - 🔭 I’m currently working on an NFT website with Ai Automation for discovering , buying and selling of NFTs , crypto currencies and forex trading, legal contract Automation + Blockchain verification , Autonomous Crypto Trading e.t.c
   Tech stacks - Node.js + Express .js, react + tailwind e.t.c
+ **React, JavaScript,MongoDB, MySQL, Postgresql, Web Development e.t.c**<br>
 
+⚡ Fun fact **I am Funny**
+
+
+</br>
 
 
 ## Glad to see you here!
